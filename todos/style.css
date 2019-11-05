@@ -1,0 +1,59 @@
+.head {
+    position : absolute;
+    background-color: #4269C8;
+    margin : 0px;
+    padding: 0px;
+    height: 80px;
+    width : 100%
+}
+body{
+    margin : 0px;
+}
+h1{
+    position: absolute;
+    font-family: Arial;
+    font-size: 25pt;
+    color : white;
+    left : 50px;
+}
+.input{
+    position : absolute;
+    left : 300px;
+    top : 150px;
+}
+.newTask{
+    width : 700px;
+    height : 30px;
+    border-radius: 10px;
+    border : 1px solid lightgray;
+    padding : 10px;
+    font-size: 16pt;
+    font-family: Arial;
+}
+.btnAdd{
+    height : 33px;
+    width : 60px;
+    background-color: #4267B2;
+    border: none;
+    text-decoration: none;
+    color : white;
+    border-radius: 5px;
+}
+.btnDel{
+    height : 33px;
+    width : 70px;
+    background-color: #BA0000;
+    border: none;
+    text-decoration: none;
+    color : white;
+    border-radius: 5px;
+}
+li{
+    border : 1px solid lightgrey;
+    list-style-type: none;
+    padding : 10px;
+    font-size: 16pt;
+    font-family: arial;
+    color : #323232;
+    margin : 0px;
+}

@@ -1,0 +1,21 @@
+.para1{
+    font-size : 30px;
+    font-family: cursive;
+    color : red;
+    color: blue;
+}
+.div2{
+    background-color: bisque;
+    height : 100px;
+}
+.div12{
+
+
+}
+.div23{
+
+    position : relative;
+    top : 20px;
+    left : 30px;
+
+}
